@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @A1A8ER
 - 👀 I’m scripting with HTML/CSS
-- 🌱 I’m currently learning React Native/ReactJS
+- 🌱 I’m currently learning React-Native/ReactJS
 - 💭 My dream is to design/make Websites with React/Apps with React-Native
 
 <!---
