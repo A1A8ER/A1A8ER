@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @A1A8ER, from Germany!
-- 😞 I'm really lost, I don't know what I should learn...
-- 🌱 I'm currently trying to get into PyTorch, because I like mathematics, but also chemistry.
+- 😞 I was really lost, I didn't knew what I should learn...
+- 🌱 I'm trying to get into NumPy, because I like mathematics.
 - 💭 My dream is to be program something, that is useful for mathematicians, physicists and chemists.
 
 <!---
