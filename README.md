@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @A1A8ER, from Germany!
-- 😞 I was really lost, I didn't knew what I should learn...
+- 😞 I was really lost, I didn't know what I should learn...
 - 🌱 I'm trying to get into C#.
 - 💭 My dream is to be program something, that is useful for mathematicians, physicists and chemists.
 
